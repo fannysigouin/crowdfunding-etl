@@ -43,3 +43,8 @@ CREATE TABLE "contacts" (
         "contact_id"
      )
 );
+
+SELECT * FROM public.category;
+SELECT * FROM public.subcategory;
+SELECT * FROM public.campaign;
+SELECT * FROM public.contacts;
